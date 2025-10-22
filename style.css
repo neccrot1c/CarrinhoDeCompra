@@ -23,3 +23,13 @@ main{
     padding: 20px;
 
 }
+.produtos{
+    display: flex;
+}
+
+.add-item{
+    background-color: rgb(5, 248, 5);
+    border: none;
+    padding: 5px 15px;
+    color: white;
+}
