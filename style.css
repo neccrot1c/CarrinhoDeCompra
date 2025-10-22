@@ -1,5 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 header{
     background-color: rgb(42, 243, 42);
     text-align: center;
     padding: 10px;
+}
+
+main{
+    display: flex;
 }
