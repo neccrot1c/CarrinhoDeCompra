@@ -33,3 +33,7 @@ main{
     padding: 5px 15px;
     color: white;
 }
+
+.add-item:hover{
+    background-color: rgba(25, 216, 25, 0.519);
+}
